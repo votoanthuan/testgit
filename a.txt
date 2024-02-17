@@ -1,3 +1,4 @@
 add a.txt
 edit a in master
 edit a.txt in mod_a
+m 1
